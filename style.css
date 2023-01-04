@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&display=swap');
+
+body{
+    font-family: 'Kanit', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: goldenrod;
+}
